@@ -1,0 +1,11 @@
+rootProject.name = 'storemultiproject'
+
+include 'service-users'
+include 'service-showtime'
+include 'service-movies'
+include 'service-bookings'
+include 'service-config'
+include 'service-register'
+include 'service-gateway'
+include 'service-admin'
+
